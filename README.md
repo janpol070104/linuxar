@@ -73,6 +73,61 @@
     ```
 
 
+## 🛠️ HOW TO INSTALL `.deb` FILE IN LINUX
+
+Assume your file is:  
+`linuxar_1.0-1.deb`
+
+### ✅ Option 1: Using `dpkg` (manual method)
+
+```bash
+sudo dpkg -i linuxar_1.0-1.deb
+```
+
+Then fix any missing dependencies (if needed):
+
+```bash
+sudo apt -f install
+```
+
+---
+
+### ✅ Option 2: Using `apt` (recommended)
+
+```bash
+sudo apt install ./linuxar_1.0-1.deb
+```
+
+> ✅ This automatically handles dependencies and is cleaner than `dpkg`.
+
+---
+
+### 📂 If the file is in Downloads:
+
+```bash
+cd ~/Downloads
+sudo apt install ./linuxar_1.0-1.deb
+```
+
+---
+
+### 🔍 To Check Installation:
+
+```bash
+dpkg -l | grep linuxar
+```
+[Note] renmae linuxar_1.0-1.deb with linuxar_xxx.deb
+---
+
+### ❌ To Uninstall the Package:
+
+```bash
+sudo apt remove linuxar
+```
+
+---
+
+Let me know if you want a **shell script installer** or a GUI-based method too.
 
 ## Usage
 
