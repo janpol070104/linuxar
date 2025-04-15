@@ -1,0 +1,11 @@
+Package: linuxar
+Version: 1.0.1
+Section: utils
+Priority: optional
+Architecture: all
+Depends: bash, coreutils, findutils, sed, grep, procps
+Maintainer: White9shadow <white9shadow@example.com>
+Description: A tool to optimize Linux systems by cleaning junk files and applying performance tweaks.
+Homepage: https://magiskmodule.gitlab.io
+Source: https://github.com/White9shadow/linuxar
+License: MIT

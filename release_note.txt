@@ -1,0 +1,3 @@
+  * Initial release of Linuxar Optimization Tool.
+  * Added system cleaning and performance tweaks.
+  * Implemented restore functionality.

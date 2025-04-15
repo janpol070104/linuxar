@@ -1,0 +1,7 @@
+#!/bin/sh
+set -e
+chmod 755 /usr/bin/linuxar
+if [ -f /usr/share/man/man1/linuxar.1.gz ]; then
+    chmod 644 /usr/share/man/man1/linuxar.1.gz
+fi
+exit 0
